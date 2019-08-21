@@ -1,0 +1,5 @@
+taxi_trips.csv
+taxi_trips/
+dask-worker-space/
+.DS_Store
+.ipynb_checkpoints/
