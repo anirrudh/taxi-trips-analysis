@@ -3,3 +3,4 @@ taxi_trips/
 dask-worker-space/
 .DS_Store
 .ipynb_checkpoints/
+taxi_trips.parq/
