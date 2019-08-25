@@ -13,7 +13,7 @@ meantime, I am also finding a place to make the `.parq` version of the data publ
 it in the browser, just be aware that the data will not load until this readme is updated.
 
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://beta.mybinder.org/v2/gh/anirrudh/taxi-trips-analysis?filepath=dask_exploration.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](http://beta.mybinder.org/v2/gh/anirrudh/taxi-trips-analysis/master?filepath=dask_exploration.ipynb)
 
 Press the binder badge above to launch jupyterlab in the browser.
 
